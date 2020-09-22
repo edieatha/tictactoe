@@ -7,6 +7,11 @@ A Tic Tac Toe game you can play in your browser!
   * Javascript
   * HTML5
   * CSS3
+  
+# Screenshot
+
+* Player name
+![screenshot](img.png)
 
 ## Getting Started:
 
@@ -23,19 +28,10 @@ To get a local copy up and running follow these simple example steps:
 
 5. Open your web browser and then open the index.html local file that was copied to the proyect folder
 
-## See a live demo [Here](https://raw.githack.com/rindrajosia/tictactoe-js/feature/index.html)
+## See a live demo [Here](https://condescending-einstein-bfbe8e.netlify.app)
 
 ## Show your support
 Give a ⭐️ if you like this project!
-
-# Screenshot
-
-* Player name
-![screenshot](assets/img/1.png)
-
-* Board game
-![screenshot](assets/img/2.png)
-
 
 ## Authors
 
